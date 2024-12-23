@@ -1,0 +1,4 @@
+El paciente Juan Pérez asistió al hospital el 15 de marzo de 2023 para una consulta médica. Durante la revisión, el médico recomendó un tratamiento basado en medicamentos específicos y programó una cirugía menor. Los datos del paciente, como su dirección en Calle Principal 123, Ciudad Central, fueron registrados en el sistema de gestión del hospital.
+
+El proyecto de implementación del nuevo software de planificación hospitalaria incluye la validación de datos, pruebas de rendimiento y la optimización de procesos. El costo inicial del proyecto es de $50,000, con un presupuesto adicional de $10,000 para mantenimiento. La entrega está planificada para junio de 2023.
+

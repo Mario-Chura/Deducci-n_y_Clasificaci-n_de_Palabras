@@ -1,0 +1,3 @@
+El diseño de la estructura automatizada comenzó en marzo de 2023. Este sistema, basado en cálculos avanzados y simulaciones, incluye componentes mecánicos y eléctricos. La construcción del prototipo fue realizada en el laboratorio de ingeniería, utilizando materiales reciclados para minimizar costos.
+
+El sistema incluye módulos de validación que verifican la eficiencia energética en tiempo real. La instalación inicial fue completada en junio, y el mantenimiento preventivo está programado cada seis meses. Este proyecto forma parte de una colaboración entre universidades para mejorar la sostenibilidad en procesos industriales.
